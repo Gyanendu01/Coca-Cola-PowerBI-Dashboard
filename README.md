@@ -55,8 +55,8 @@ This project helped me learn and apply:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](Screenshot(39).png)
-![Dashboard Screenshot](Screenshot(40).png)
+![Dashboard Screenshot](Cola1.png)
+![Dashboard Screenshot](Cola2.png)
 
 
 ## 🤝 Connect
