@@ -34,7 +34,7 @@ This dashboard showcases my growing skills in data analysis and visualization us
 
 - `CocaCola_DashBoard.pbix` – The main Power BI project file.
 - `README.md` – Project documentation.
-- `data/` – Sample or anonymized dataset used for the dashboard (if shared).
+- `data/` – Sample or anonymized dataset used for the dashboard.
 
 > Note: Actual business data has been anonymized or replaced with sample data to protect confidentiality.
 
@@ -52,6 +52,12 @@ This project helped me learn and apply:
 - Dynamic filtering and slicers
 - Predictive insights with AI visuals
 - Financial KPI analysis using matrices
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](Screenshot(39).png)
+![Dashboard Screenshot](Screenshot(40).png)
+
 
 ## 🤝 Connect
 
